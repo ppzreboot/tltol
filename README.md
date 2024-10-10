@@ -1,2 +1,2 @@
 # tltol
-The little tutorial on linux.
+The little tutorial on linux magic.
